@@ -1,0 +1,147 @@
+,dms_id,uniprot_id,protein_name,dms_name,assay_g02
+0,tmp:9J8U4pqFlyTEu0qp,P78352,DLG4,DLG4-Faure-CRIPT,Binding
+2,tmp:bSJAagT3avgUbTbZ,P62993,GRB2,GRB2-Faure-GAB2,Binding
+3,tmp:ebBGiSj5G7F8NIkw,P01100,FOS,FOS,Binding
+4,tmp:iYrUnQ5QGj6dYcfZ,P78352,DLG4,DLG4-Faure-Abundance,Abundance
+5,tmp:sxp0a9t3oGKmp1hu,P62993,GRB2,GRB2-Faure-Abundance,Abundance
+1,tmp:UCrl0vQc6AQv4KH4,P05412,JUN,JUN-full-trans,Binding
+6,urn:mavedb:00000001-a-2,P63279,UBE2I,UBE2I_BarSeq,Enzyme activity
+7,urn:mavedb:00000001-a-3,P63279,UBE2I,UBE2I_TileSeq,Enzyme activity
+8,urn:mavedb:00000001-b-2,P63165,SUMO1,SUMO1,Activity
+9,urn:mavedb:00000001-c-1,P0DP23,CALM1,CALM1,Activity
+10,urn:mavedb:00000001-d-1,Q9H3S4,TPK1,TPK1,Enzyme activity
+11,urn:mavedb:00000002-a-2,P46937,YAP1,YAP1-WW_domain,Binding
+12,urn:mavedb:00000003-a-2,P38398,BRCA1,BRCA1_E3,Enzyme activity
+13,urn:mavedb:00000003-b-2,P38398,BRCA1,BRCA1_Y2H,Binding
+14,urn:mavedb:00000004-a-1,Q9ES00,Ube4b,Ube4b-Ubiquitination,Enzyme activity
+15,urn:mavedb:00000005-a-5,P35520,CBS,CBS_Low-B6,Enzyme activity
+16,urn:mavedb:00000005-a-6,P35520,CBS,CBS_High-B6,Enzyme activity
+17,urn:mavedb:00000010-a-1,P04147,PAB1,PAB1-Growth,Activity
+18,urn:mavedb:00000011-a-1,P02829,HSP90,HSP90-Growth_Hietpas2011,Activity
+19,urn:mavedb:00000012-a-1,P04386,GAL4,GAL4_None,Others
+20,urn:mavedb:00000012-a-2,P04386,GAL4,GAL4_24h-A,Others
+21,urn:mavedb:00000012-a-3,P04386,GAL4,GAL4_40h-A,Others
+22,urn:mavedb:00000012-a-4,P04386,GAL4,GAL4_40h-B,Others
+23,urn:mavedb:00000012-a-5,P04386,GAL4,GAL4_40h-C,Others
+24,urn:mavedb:00000012-a-6,P04386,GAL4,GAL4_64h-C,Others
+25,urn:mavedb:00000013-b-1,P51580,TPMT,TPMT-VAMP_Seq,Abundance
+26,urn:mavedb:00000035-a-1-exp,P04035,HMGCR,HMGCR-rosuvastatin,Enzyme activity
+27,urn:mavedb:00000035-a-2-exp,P04035,HMGCR,HMGCR-growth,Enzyme activity
+28,urn:mavedb:00000035-a-3-exp,P04035,HMGCR,HMGCR-atorvastatin,Enzyme activity
+29,urn:mavedb:00000036-a-1-exp,Q5SW96,LDLRAP1,LDLRAP1-OBFC1-bind,Binding
+30,urn:mavedb:00000036-a-2-exp,Q5SW96,LDLRAP1,LDLRAP1-AP2B1-bind,Binding
+31,urn:mavedb:00000037-a-1,P0CG63,Ubiquitin,UBI_Growth,Activity
+32,urn:mavedb:00000038-a-1,P0CG63,Ubiquitin,UBI_Less-E1,Binding
+33,urn:mavedb:00000038-b-1,P0CG63,Ubiquitin,UBI_Excess-E1-Mid,Binding
+34,urn:mavedb:00000038-b-2,P0CG63,Ubiquitin,UBI_Excess-E1-Tail,Binding
+35,urn:mavedb:00000039-a-1,P02829,HSP90,HSP90-Growth_ADH,Activity
+36,urn:mavedb:00000039-a-2,P02829,HSP90,HSP90-Growth_ADHdTer,Activity
+37,urn:mavedb:00000039-a-3,P02829,HSP90,HSP90-Growth_CYC,Activity
+38,urn:mavedb:00000039-a-4,P02829,HSP90,HSP90-Growth_CYCdTer,Activity
+39,urn:mavedb:00000039-a-5,P02829,HSP90,HSP90-Growth_GPD,Activity
+40,urn:mavedb:00000039-a-6,P02829,HSP90,HSP90-Growth_TEF,Activity
+41,urn:mavedb:00000039-a-7,P02829,HSP90,HSP90-Growth_TEFdTer,Activity
+42,urn:mavedb:00000040-a-1,P02829,HSP90,HSP90-Growth_30,Activity
+43,urn:mavedb:00000040-a-2,P02829,HSP90,HSP90-Growth_30NaCl,Activity
+44,urn:mavedb:00000040-a-3,P02829,HSP90,HSP90-Growth_36,Activity
+45,urn:mavedb:00000040-a-4,P02829,HSP90,HSP90-Growth_36NaCl,Activity
+46,urn:mavedb:00000041-a-1,P12931,SRC,SRC-CD,Enzyme activity
+47,urn:mavedb:00000041-b-1,P12931,SRC,SRC-SH4,Enzyme activity
+48,urn:mavedb:00000043-a-1,P40238,MPL,MPL,Others
+49,urn:mavedb:00000045-a-1,P37840,SNCA,SNCA-45a,Others
+50,urn:mavedb:00000045-b-1,P37840,SNCA,SNCA-45b,Others
+51,urn:mavedb:00000045-c-1,P37840,SNCA,SNCA-45c,Others
+52,urn:mavedb:00000045-d-1,P37840,SNCA,SNCA-45d,Others
+53,urn:mavedb:00000045-e-1,P37840,SNCA,SNCA-45e,Others
+54,urn:mavedb:00000045-f-1,P37840,SNCA,SNCA-45f,Others
+55,urn:mavedb:00000045-g-1,P37840,SNCA,SNCA-45g,Others
+56,urn:mavedb:00000045-h-1,P37840,SNCA,SNCA-45h,Others
+57,urn:mavedb:00000045-i-1,P37840,SNCA,SNCA-45i,Others
+58,urn:mavedb:00000045-j-1,P37840,SNCA,SNCA-45j,Others
+59,urn:mavedb:00000045-k-1,P37840,SNCA,SNCA-Expression,Abundance
+60,urn:mavedb:00000045-l-1,P37840,SNCA,SNCA-45l,Others
+61,urn:mavedb:00000046-a-1,P42081,CD86,CD86_expression,Abundance
+62,urn:mavedb:00000047-a-1,P51681,CCR5,CCR5-expression,Abundance
+63,urn:mavedb:00000047-b-1,P51681,CCR5,CCR5-2d7-bind,Binding
+64,urn:mavedb:00000047-c-1,P51681,CCR5,CCR5-gp120cd4-bind,Binding
+65,urn:mavedb:00000048-a-1,P61073,CXCR4,CXCR4-expression,Abundance
+66,urn:mavedb:00000048-b-1,P61073,CXCR4,CXCR4-cxcl12-bind,Binding
+67,urn:mavedb:00000048-c-1,P61073,CXCR4,CXCR4-12g5-bind,Binding
+68,urn:mavedb:00000049-a-1-exp,P42898,MTHFR,MTHFR-Folate-100,Enzyme activity
+69,urn:mavedb:00000049-a-4-exp,P42898,MTHFR,MTHFR-Folate-12,Enzyme activity
+70,urn:mavedb:00000049-a-6-exp,P42898,MTHFR,MTHFR-Folate-25,Enzyme activity
+71,urn:mavedb:00000049-a-7,P42898,MTHFR,MTHFR-Folate-200,Enzyme activity
+72,urn:mavedb:00000051-a-1,P14151,CLS,CLS,Others
+73,urn:mavedb:00000051-b-1,P04626,ERBB2,ERBB2,Others
+74,urn:mavedb:00000051-c-1,P02724,GPA,GPA,Others
+75,urn:mavedb:00000052-a-1,P03069,GCN4,GCN4-complete,Others
+76,urn:mavedb:00000052-b-1,P03069,GCN4,GCN4-starvation,Others
+77,urn:mavedb:00000053-a-2,P78352,DLG4,DLG4-CRIPT,Binding
+78,urn:mavedb:00000054-a-1,P60484,PTEN,PTEN_Phosphatase,Enzyme activity
+79,urn:mavedb:00000055-a-1,Q9NV35,NUDT15,NUDT15-VAMP_Seq,Abundance
+80,urn:mavedb:00000055-b-1,Q9NV35,NUDT15,NUDT15-Activity,Enzyme activity
+81,urn:mavedb:00000057-a-1,P01112,RAS,RAS-unregulated,Binding
+82,urn:mavedb:00000057-b-1,P01112,RAS,RAS-attenuated,Binding
+83,urn:mavedb:00000057-c-1,P01112,RAS,RAS-regulated,Binding
+84,urn:mavedb:00000058-a-1,P05067,Abeta42,Abeta42,Others
+85,urn:mavedb:00000059-a-1,P04637,TP53,TP53-growth,Activity
+86,urn:mavedb:00000060-a-1,Q13148,TDP-43,TDP43-Toxicity-front,Others
+87,urn:mavedb:00000060-a-2,Q13148,TDP-43,TDP43-Toxicity-back,Others
+88,urn:mavedb:00000061-a-1,P04049,RAF1,RAF1-modify-2h,Binding
+89,urn:mavedb:00000061-b-1,P04049,RAF1,RAF1-modify-4h,Binding
+90,urn:mavedb:00000061-c-1,P04049,RAF1,RAF1-modify-6h,Binding
+91,urn:mavedb:00000061-d-1,P04049,RAF1,RAF1-modify-8h,Binding
+92,urn:mavedb:00000061-e-1,P04049,RAF1,RAF1-modify-10h,Binding
+93,urn:mavedb:00000061-f-1,P04049,RAF1,RAF1-modify-12h,Binding
+94,urn:mavedb:00000061-g-1,P04049,RAF1,RAF1-modify-24h,Binding
+95,urn:mavedb:00000061-h-1,P04049,RAF1,RAF1-modify-48h,Binding
+96,urn:mavedb:00000061-i-1,P04049,RAF1,RAF1-modify-72h,Binding
+97,urn:mavedb:00000062-a-1,P11712,CYP2C9,CYP2C9-VAMP_Seq,Abundance
+98,urn:mavedb:00000062-b-1,P33261,CYP2C19,CYP2C19-VAMP_Seq,Abundance
+99,urn:mavedb:00000063-a-1,P0ABQ4,DHFR,DHFR-with_lon,Enzyme activity
+100,urn:mavedb:00000063-b-1,P0ABQ4,DHFR,DHFR-without_lon,Enzyme activity
+101,urn:mavedb:00000064-a-1,P02943,LamB,LamB-Phage,Others
+102,urn:mavedb:00000064-b-1,P02943,LamB,LamB-Maltodextrins,Others
+103,urn:mavedb:00000065-a-1,P62166,NCS1,NCS1,Others
+104,urn:mavedb:00000066-a-1,P31150,GDI1,GDI1,Activity
+105,urn:mavedb:00000067-a-1,Q9NZ01,TECR,TECR,Others
+106,urn:mavedb:00000068-b-1,P04637,TP53,TP53-null-nultlin,Activity
+107,urn:mavedb:00000068-c-1,P04637,TP53,TP53-null-etop,Activity
+108,urn:mavedb:00000069-a-1,Q9BYF1,ACE2,ACE2-s-high,Binding
+109,urn:mavedb:00000070-a-2,P62593,TEM-1,TEM1-Firnberg,Enzyme activity
+110,urn:mavedb:00000074-a-1,P02829,HSP90,HSP90-Growth_Mishra2016,Activity
+111,urn:mavedb:00000076-a-1,P40515,FIS1,FIS1-3AT-20,Others
+112,urn:mavedb:00000076-b-1,P40515,FIS1,FIS1-3AT-10,Others
+113,urn:mavedb:00000076-c-1,P40515,FIS1,FIS1-3AT-5,Others
+114,urn:mavedb:00000076-e-1,P40515,FIS1,FIS1-Ura,Others
+115,urn:mavedb:00000077-a-1,Q06851,Cohesin-Ct,Cohesin-Ct-dockerin_binding,Binding
+116,urn:mavedb:00000077-b-1,Q45996,Cohesin-Cc,Cohesin-Cc-dockerin_binding,Binding
+117,urn:mavedb:00000078-a-1,Q9BQB6,VKOR,VKOR-Carboxylation,Enzyme activity
+118,urn:mavedb:00000078-b-1,Q9BQB6,VKOR,VKOR-VAMP_Seq,Abundance
+119,urn:mavedb:00000079-a-1,A0A3G4RHW3,PyKS,PyKS-Stability,Abundance
+120,urn:mavedb:00000080-a-2,P42212,avGFP,avGFP-Fluorescent,Others
+121,urn:mavedb:00000081-a-2,P38398,BRCA1,BRCA1_Starita_2018,Activity
+122,urn:mavedb:00000084-a-1-MSs,P62554,CcdB,CcdB,Others
+123,urn:mavedb:00000086-a-1,P62593,TEM-1,TEM1-Stiffler-10,Enzyme activity
+124,urn:mavedb:00000086-b-1,P62593,TEM-1,TEM1-Stiffler-39,Enzyme activity
+125,urn:mavedb:00000086-c-1,P62593,TEM-1,TEM1-Stiffler-156,Enzyme activity
+126,urn:mavedb:00000086-d-1,P62593,TEM-1,TEM1-Stiffler-625,Enzyme activity
+127,urn:mavedb:00000086-e-1,P62593,TEM-1,TEM1-Stiffler-2500,Enzyme activity
+128,urn:mavedb:00000086-f-1,P62593,TEM-1,TEM1-Stiffler-015,Enzyme activity
+129,urn:mavedb:00000086-g-1,P62593,TEM-1,TEM1-Stiffler-0,Others
+130,urn:mavedb:00000090-a-1,P31016,Dlg4,Dlg4-CRIPT,Binding
+131,urn:mavedb:00000090-b-1,P31016,Dlg4,Dlg4-T-2F,Binding
+132,urn:mavedb:00000094-a-2,P56696,KCNQ4,KCNQ4-Current,Others
+133,urn:mavedb:00000094-a-3,P56696,KCNQ4,KCNQ4-V1/2,Others
+134,urn:mavedb:00000095-a-1,P11712,CYP2C9,CYP2C9-Amorosi-Activity,Enzyme activity
+135,urn:mavedb:00000095-b-1,P11712,CYP2C9,CYP2C9-Amorosi-VAMP-Seq,Abundance
+136,urn:mavedb:00000096-a-1,P35557,GCK,GCK,Enzyme activity
+137,urn:mavedb:00000097-0-1,P38398,BRCA1,BRCA1_Findlay,Activity
+138,urn:mavedb:00000098-a-1,Q14524,SCN5A,SCN5A,Others
+139,urn:mavedb:00000099-a-1,P08100,RHO,RHO,Abundance
+140,urn:mavedb:00000102-0-1,P60484,PTEN,PTEN-Combined-VAMP-Seq,Abundance
+141,urn:mavedb:00000105-a-1,P06654,GB1,GB1,Binding
+142,urn:mavedb:00000106-a-1,Q9GZX7,AICDA,AICDA-G1,Enzyme activity
+143,urn:mavedb:00000106-b-1,Q9GZX7,AICDA,AICDA-G2,Enzyme activity
+144,urn:mavedb:00000106-c-1,Q9GZX7,AICDA,AICDA-G3,Enzyme activity
+145,urn:mavedb:00000107-a-1,Q9Y617,PSAT1,PSAT1,Enzyme activity
